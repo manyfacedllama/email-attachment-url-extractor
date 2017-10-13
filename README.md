@@ -1,7 +1,10 @@
 # msg-attachment-url-extractor
 Attachment and URL Extractor for MSG files.
 
-# Usage Example
+## Description
 
-# License
-Released under The MIT License.
+
+## Usage Example
+
+## License
+Licensed under the [MIT License](https://github.com/nhmezakm/msg-attachment-url-extractor/blob/master/LICENSE).
